@@ -1,0 +1,8 @@
+{
+  "name": "RedMagic AI OS",
+  "description": "A futuristic, gamer-centric AI assistant inspired by the RedMagic 11 Pro, featuring specialized modes for gaming, coding, and creative tasks with deep research capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
